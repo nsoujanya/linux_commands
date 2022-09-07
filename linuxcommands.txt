@@ -1,0 +1,19 @@
+
+
+sudo => super user
+
+apt-get install pacakge_naem(software) => apt-get similar to playstore
+
+
+file editor
+
+vim file_name
+
+file create 
+
+1 touch file_name
+2 vim file_name ,write something save & exit
+
+file content 
+
+cat file_name
